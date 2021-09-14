@@ -1,6 +1,6 @@
 2020 겨울방학
 
-Git blog -> project
+Git blog -> project 
 
 
 ### ● 버스 예매 프로그램 
